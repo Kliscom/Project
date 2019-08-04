@@ -1,0 +1,30 @@
+* {
+  background-color: #DFDFDF;
+  color: #ffffff;
+}
+
+nav a{
+  color:red;
+}
+
+nav li {
+    float:right;
+    display: inline-block;
+    padding:15px 7px;
+}
+
+
+nav {
+    background-color: rgba(29, 39, 49, 0.9);
+    position: fixed;
+    margin-top: 100px;
+    border:2px solid ;
+    border-left: 0px;
+    border-right: 0px;
+    width:100%;
+}
+
+body {
+  background-color: #9082DC;
+  color:#9BFF00;
+}
